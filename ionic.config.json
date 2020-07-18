@@ -1,0 +1,7 @@
+{
+  "name": "mithril-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
